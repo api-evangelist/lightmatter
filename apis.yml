@@ -1,0 +1,64 @@
+aid: lightmatter
+name: Lightmatter
+description: >-
+  Lightmatter is a Mountain View, California photonic supercomputer company
+  building optical interconnect and compute products for AI infrastructure.
+  Its flagship Passage line of 3D-stacked photonic interposers and co-packaged
+  optics, including the Passage M1000 superchip and the Passage L20 and L200
+  pluggables, deliver up to 114 Tbps of optical bandwidth and target
+  frontier-scale AI training and inference fabrics. Lightmatter also ships
+  the Envise general-purpose photonic AI accelerator and the Guide VLSP
+  Light Engine universal light source, and provides reference systems and
+  evaluation kits. The company holds a 4.4 billion dollar valuation on
+  roughly 850 million dollars raised as of late 2024 and partners with TSMC,
+  GlobalFoundries, OIF, IEEE, and OCP. Lightmatter does not expose a public
+  developer API, so this profile is hardware-, research-, and
+  press-focused with an intentionally empty apis list.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI Hardware
+  - Photonics
+  - Interconnect
+  - Accelerator
+  - Optical
+  - Datacenter
+  - Co-Packaged Optics
+  - Silicon
+url: https://raw.githubusercontent.com/api-evangelist/lightmatter/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://lightmatter.co
+  - type: Vision
+    url: https://lightmatter.co/vision
+  - type: Product
+    url: https://lightmatter.co/products/passage
+  - type: Product
+    url: https://lightmatter.co/products/envise
+  - type: Product
+    url: https://lightmatter.co/products/guide
+  - type: PressRelease
+    url: https://lightmatter.co/press-release/lightmatter-unveils-passage-m1000-photonic-superchip-worlds-fastest-ai-interconnect
+  - type: Analysis
+    url: https://futurumgroup.com/insights/lightmatter-solving-how-to-interconnect-millions-of-chips/
+  - type: Analysis
+    url: https://research.contrary.com/company/lightmatter
+  - type: Analysis
+    url: https://tspasemiconductor.substack.com/p/lightmatter-passage-a-comprehensive
+  - type: Careers
+    url: https://lightmatter.co/careers
+  - type: Blog
+    url: https://lightmatter.co/blog
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lightmatter
+  - type: Twitter
+    url: https://twitter.com/lightmatter_co
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
