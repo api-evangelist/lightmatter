@@ -46,7 +46,7 @@ tags:
   - Interconnect
   - Accelerator
   - Optical
-  - Data-Center
+  - Data Center
   - Co-Packaged Optics
   - Silicon
 tags_raw:
@@ -58,6 +58,7 @@ tags_raw:
   - Datacenter
   - Co-Packaged Optics
   - Silicon
+  - Data-Center
 url: https://raw.githubusercontent.com/api-evangelist/lightmatter/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-23'
